@@ -1,2 +1,2 @@
 # hello-world
-This repository is for GitHub Flow
+This is my first repository in Git
